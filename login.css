@@ -1,0 +1,19 @@
+#inscr{
+    background: rgb(246, 240, 246);
+    color:rgb(5, 5, 5);
+    font-size: 28px;
+    border:20px;
+    margin:20px;
+    padding:20px;
+    width: 400px;
+    border-radius: 6px 10px;
+    box-shadow: 3px 6px;
+}
+
+button{
+    text-align: center;
+    font-size: 20px;
+}
+body{
+    font-weight: bold;
+}
